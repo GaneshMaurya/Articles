@@ -7,9 +7,9 @@ IoT devices are mostly manufactured to serve customers, genereal public, and are
 But IIot devices are purely manufactured to assist industrial workers and automate boring tasks. This does not mean that 
 the machines are going to takeover the jobs of industrial workers, which might be posible in the foreseeable future, but these machines cannect with each other and interact with other machines and perform task efficiently.</p>
 
-<h2>Difference between IIoT andIoT</h2>
+<h2>Difference between IIoT and IoT</h2>
 <p>Both IIoT and IoT have the same main character of availability, intelligent and connected devices. The only difference between those two is their general usages. While IoT is most commonly used for consumer usage, IIoT is used for industrial purpose such as manufacturing, supply chain monitor and management system. This illustration below will give you clearer picture about both concepts.</p>
-<br>
+
 <h3>Focus Development</h3>
 <p>IIoT uses more sophisticated devices to extend existing manufacturing and supply chain monitor to provide broader, more detailed visibility and enable automated controls and accomplished analytic.
 On the other hand, IoT is developed with the concept of using smart devices to improve consumer convenience, where human interacts with devices to gain some benefits. For example, connected home appliances will reduce your monthly bills by managing your resource usage such as automatically turning off electricity when you leave home, or adjusting the room temperature based on current weather.
